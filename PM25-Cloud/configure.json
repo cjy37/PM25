@@ -9,8 +9,8 @@
         "ioswss": "8055"
     },
     "passphrase": "",
-    "dbpath": "mongodb://localhost:28017/pm25",
-    "sessiondbpath": "mongodb://localhost:28017/pm25-session",
+    "dbpath": "mongodb://localhost:27017/pm25",
+    "sessiondbpath": "mongodb://localhost:27017/pm25-session",
     "deviceproduction": "",
     "device": ""
 }
